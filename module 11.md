@@ -264,7 +264,8 @@ int main() {
 Output:
 
 
-![image](https://github.com/user-attachments/assets/e58fa11b-f0c7-458e-afac-83336d79396f)
+![image](https://github.com/user-attachments/assets/efce1662-f6c6-4a1b-af44-52c7aa2492d2)
+
 
 
 
